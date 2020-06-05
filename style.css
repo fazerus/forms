@@ -1,0 +1,19 @@
+body {
+  background: #302140;
+  color: white;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.main {
+}
+
+.form {
+}
+
+.form__item {
+  display: block;
+  width: 100%;
+}
